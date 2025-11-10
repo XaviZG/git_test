@@ -1,3 +1,3 @@
 # git_test
 "Hello Odin!"
-Locura  
+Si esto se lee, es porque hice todo bien 
